@@ -27,15 +27,15 @@ My research interest includes Neural Decoding and Brain-computer Interfaces.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Nanopart. Res. 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Nanopart. Res. 2025</div><img src='images/CONTINfit-GRNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CONTINfit-GRNN: a hybrid method for recovering nanoparticle size distribution in dynamic light scattering](https://link.springer.com/article/10.1007/s11051-025-06469-x)
 
 **Zhao Zhang**, Jiajie Wang, Paul Briard, Hameed Akhtar, Kewen Su
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We proposed a hybrid inversion algorithm by integrating the constrained regularization method (CONTIN), the nonlinear least squares fitting strategy and a general regression neural network (GRNN).
+- Achieved precise inversion of the particle size distribution for unimodal and bimodal nano-spherical particle systems, with enhanced robustness against noise.
 </div>
 </div>
 
