@@ -39,7 +39,7 @@ My research interest includes Neural Decoding and Brain-computer Interfaces.
 </div>
 </div>
 
-- [CONTINfit-GRNN: a hybrid method for recovering nanoparticle size distribution in dynamic light scattering](https://link.springer.com/article/10.1007/s11051-025-06469-x), **Zhao Zhang**, Jiajie Wang, Paul Briard, Hameed Akhtar, Kewen Su, **Journal of Nanoparticle Research, 2025**
+- [CONTINfit-GRNN: a hybrid method for recovering nanoparticle size distribution in dynamic light scattering](https://link.springer.com/article/10.1007/s11051-025-06469-x), **Zhao Zhang**, Jiajie Wang, Paul Briard, Hameed Akhtar, Kewen Su, **Journal of Nanoparticle Research**, 2025
 
 # 🎖 Honors and Awards
 - *2023.05* Meritorious Winner, Mathematical Contest in Modeling(MCM/ICM). 
